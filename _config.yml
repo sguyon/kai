@@ -2,21 +2,21 @@
 #
 
 # Site settings
-title: kai digital
+title: KAI startup studio
 description: |
   digital experience consulting for brands and startups
-owner: kai digital # or company name
+owner: kai # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: sacha@kai-digital.com
+email: contact@kaistud.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.kai-digital.com" # the base hostname & protocol for your site
+url: "http://www.kaistud.io" # the base hostname & protocol for your site
 social:
   # twitter: https://twitter.com/<username>
   # github: https://github.com/sguyon/kai
   # linkedin-square: https://linkedin.com/in/<username>
   # facebook-official: https://facebook.com/<username>
   # google-plus-square: https://plus.google.com/u/0/+<username>
-  email: mailto:contact@kai-digital.com
+  email: mailto:contact@kaistud.io
   #flickr:
   #instagram:
   #youtube-square:
