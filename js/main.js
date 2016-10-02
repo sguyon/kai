@@ -61,6 +61,12 @@
 					speed: 1500,
 					offset: $header.outerHeight()
 				});
+    // Scrolly2
+      $('.scrolly2')
+        .scrolly({
+          speed: 1500,
+          offset: $header.outerHeight()
+        });
 
 		// Menu.
 			$('#menu')
