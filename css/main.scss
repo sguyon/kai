@@ -901,6 +901,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+
 /* Features */
 
 	.features {
@@ -1008,6 +1009,13 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 	}
+
+.answer .button
+{
+  width:70%;
+  margin:auto;
+}
+
 
 /* Spotlight */
 
