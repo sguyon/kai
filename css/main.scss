@@ -226,6 +226,9 @@ $baseurl: '{{ site.baseurl }}/images';
 			color: _palette(fg-light);
 			position: relative;
 			top: -0.25em;
+      width:63%;
+      margin:auto;
+      text-align: center;
 		}
 
 		h2 + p {
